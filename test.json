@@ -1,9 +1,10 @@
 {
-  "data":
+  "data": [
     {
       "alphabets": "abcdefg",
       "numbers": 1234567890,
       "symbols": "!@#$%^&*()_+-=",
       "eszett": "ß"
     }
+  ]
 }
