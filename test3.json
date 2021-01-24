@@ -2,8 +2,8 @@
   "data": [
     {
       "title": "Message to Mr Yong",
-      "body": "As you have requested, Mr Yong, this is a program where a .json file is extracted from an online server, in this case, GitHub. Then, It reads the .json file and then is printed onto the screen.",
+      "body": "As you have requested, Mr Yong, this is a program where a .json file is extracted from an online server, in this case, GitHub. Then,  rthe program reads the .json file and then is printed onto the screen.",
       "postscript": ""
     }
   ]
-}
+} 
