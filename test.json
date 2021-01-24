@@ -1,10 +1,9 @@
 {
   "data": [
     {
-      "alphabets": "abcdefg",
-      "numbers": 1234567890,
-      "symbols": "!@#$%^&*()_+-=",
-      "eszett": "ß"
+      "title": "Message to all students",
+      "body": "Yu Heng is gae",
+      "postscript":  "Yes this is true"
     }
   ]
 }
