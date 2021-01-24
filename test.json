@@ -1,16 +1,16 @@
 {
   "data": [
     {
-      "alphabets": "abcdefghijklmnopqrstuvwxyz"
-    },
-    {
-      "numbers": 1234567890
-    },
-    {
-      "symbols": "!@#$%^&*()_+-="
-    },
-    {
+      "alphabets": "abcdefg",
+      "numbers": 1234567890,
+      "symbols": "!@#$%^&*()_+-=",
       "eszett": "ß"
+    },
+    {
+      "alphabets": "ahgsdhagskjdhkajshgdkj",
+      "numbers": 28374692734769837462,
+      "symbols": "*(&^%$#@!#$%^&()&*^%$",
+      "eszett": null
     }
   ]
 }
